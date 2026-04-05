@@ -12,7 +12,7 @@
 
 <br/>
 
-[![🚀 Open in Colab](https://img.shields.io/badge/🚀_OPEN_IN_COLAB-PatternPunk_AI-e63946?style=for-the-badge&labelColor=1d3557)](https://colab.research.google.com/)
+[![🚀 Open in Colab](https://img.shields.io/badge/🚀_OPEN_IN_COLAB-PatternPunk_AI-e63946?style=for-the-badge&labelColor=1d3557)](https://colab.research.google.com/drive/1osKtONpsSf983w6KC2pclsiiFZFrnyvu?usp=sharing)
 [![GitHub Stars](https://img.shields.io/github/stars/mayank-goyal09/PatternPunk-AI?style=for-the-badge&color=ffd700)](https://github.com/mayank-goyal09/PatternPunk-AI/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/mayank-goyal09/PatternPunk-AI?style=for-the-badge&color=87ceeb)](https://github.com/mayank-goyal09/PatternPunk-AI/network)
 
@@ -67,6 +67,7 @@ The critical industry bottleneck in AI-assisted textile design is **visible "sea
 </table>
 
 ---
+
 ## 🛠️ **TECHNOLOGY STACK**
 
 <div align="center">
@@ -198,7 +199,7 @@ Designed for non-technical fashion designers, the **Colab-Based UI** provides in
 
 <div align="center">
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1osKtONpsSf983w6KC2pclsiiFZFrnyvu?usp=sharing)
 
 </div>
 
