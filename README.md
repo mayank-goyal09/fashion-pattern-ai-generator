@@ -1,7 +1,8 @@
+<div align="center">
 
 # 🎸 PatternPunk-AI — Seamless Fabric Texture Synthesis
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=3500&pause=1000&color=E63946&center=true&vCenter=true&multiline=true&width=900&height=100&lines=4K+Manufacturing-Ready+Textures;Seamless+Tiling+via+Neural+Circular+Padding;DreamShaper+8+%7C+Real-ESRGAN+%7C+Interactive+Colab+UI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=3500&pause=1000&color=E63946&center=true&vCenter=true&multiline=true&width=900&height=100&lines=4K+Manufacturing-Ready+Seamless+Textures;Neural+Circular+Padding+%7C+Real-ESRGAN+%7C+Colab+UI)](https://git.io/typing-svg)
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-SDXL_Core-5462EB?style=for-the-badge&logo=stabilityai&logoColor=white)
