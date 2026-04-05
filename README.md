@@ -216,3 +216,84 @@ Run the final cell to launch the **Gradio Interface**. Enter your prompt (e.g., 
 
 ---
 
+## 📚 **SKILLS DEMONSTRATED**
+
+<div align="center">
+
+### **A Portfolio-Ready Generative AI Project**
+
+</div>
+
+| **Category** | **Skills Developed** |
+|:-------------|:---------------------|
+| 🧠 **Deep Learning** | Stable Diffusion architecture, Layer-level modification |
+| 🧬 **Neural Engineering** | Circular Padding implementation, Convolutional logic |
+| 🔧 **MLOps** | Pipeline patching, Dependency conflict resolution |
+| 🐍 **Python Mastery** | Advanced Monkey Patching, Class Inheritance overrides |
+| 🔍 **Super Resolution** | Real-ESRGAN implementation, 4K Upscaling |
+| 🎨 **UI/UX Design** | Industrial production-focused interface design |
+| 👗 **Domain Expertise** | Textile manufacturing requirements & bottleneck solving |
+
+---
+
+## 🔮 **FUTURE ENHANCEMENTS**
+
+- [ ] 🎨 **Style-Transfer integration** for specific brand aesthetics.
+- [ ] 🧵 **Physical Fabric simulation** to visualize patterns on 3D garments.
+- [ ] 📈 **Multi-Resolution Tiling** for varied manufacturing roll sizes.
+- [ ] 🤖 **Auto-Prompt generation** based on current fashion trends.
+
+---
+
+## 🤝 **CONTRIBUTING**
+Contributions to the "Neural Brain Surgery" logic or UI are always welcome! 
+
+1. 🍴 Fork the Project
+2. 🌱 Create feature branch (`git checkout -b feature/NewPattern`)
+3. 💾 Commit changes (`git commit -m 'Add NewPattern'`)
+4. 📤 Push to branch (`git push origin feature/NewPattern`)
+5. 🎁 Open a Pull Request
+
+---
+
+## 📝 **LICENSE**
+Distributed under the **MIT License**. See `LICENSE` for more information.
+
+---
+
+## 👨‍💻 **CONNECT WITH ME**
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-mayank--goyal09-181717?style=for-the-badge&logo=github)](https://github.com/mayank-goyal09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayank_Goyal-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mayank-goyal-4b8756363/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-E63946?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mayank-portfolio-delta.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-itsmaygal09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsmaygal09@gmail.com)
+
+<br/>
+
+**Mayank Goyal**  
+🎸 Fashion AI Engineer | 🧠 Neural Surgery Enthusiast | 🐍 Python Developer  
+💼 Bridging the Gap between AI and Textile Manufacturing
+
+</div>
+
+---
+
+## ⭐ **SHOW YOUR SUPPORT**
+
+<div align="center">
+
+Give a ⭐️ if this project helped you understand how to force AI into seamless continuity!
+
+<br/>
+
+### 👗 **Built with Neural Brain Surgery & ❤️ by Mayank Goyal**
+
+*"Stitching the future of fashion, one seamless pixel at a time!"* 🎸🧵
+
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:E63946,100:1D3557&height=120&section=footer)
+
+</div>
