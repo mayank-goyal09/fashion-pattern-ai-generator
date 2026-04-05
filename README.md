@@ -16,3 +16,21 @@
 [![GitHub Forks](https://img.shields.io/github/forks/mayank-goyal09/PatternPunk-AI?style=for-the-badge&color=87ceeb)](https://github.com/mayank-goyal09/PatternPunk-AI/network)
 
 <br/>
+
+<img src="header_texture.png" width="800" alt="PatternPunk Fabric Banner"/>
+
+<br/>
+
+### 🧠 **Neural Brain Surgery: Forcing AI to Generate Perfectly Seamless Tiles** 
+
+### **From Stable Diffusion (DreamShaper 8) → Manufacturing-Ready 4K Fabric Rolls** 👗
+
+</div>
+
+---
+
+## ⚡ **THE DESIGN ENGINE AT A GLANCE**
+
+<table>
+<tr>
+<td width="50%">
