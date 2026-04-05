@@ -34,3 +34,35 @@
 <table>
 <tr>
 <td width="50%">
+
+### 🎯 **The Problem We Solved**
+
+The critical industry bottleneck in AI-assisted textile design is **visible "seams"**. Standard AI generation models use zero-padding, which creates abrupt edges that break when tiled for continuous fabric rolls.
+
+**PatternPunk-AI Eliminates This By:**
+- 🔨 **Neural Circular Padding** → Replacing zero-padding with circular logic to force "edge-aware" continuity.
+- 🚀 **Real-ESRGAN 4K** → Upscaling low-res generations to professional manufacturing standards.
+- 🛠️ **Monkey Patching** → A custom Python patch to resolve internal SD dependency conflicts.
+- 📉 **Instant Prototyping** → A production-ready UI for immediate designer evaluation.
+
+</td>
+<td width="50%">
+
+### ✨ **Project Highlights**
+
+| Feature | Technical Implementation |
+|---------|---------|
+| 🎨 **Model Base** | DreamShaper 8 (Stable Diffusion) |
+| 🔄 **Tiling Logic** | Custom Neural Circular Padding |
+| 🔍 **Upscaling** | Real-ESRGAN (4K Output) |
+| 🧪 **Patching** | Python Monkey Patch for SD classes |
+| 🎨 **Output Format** | Manufacturing-Ready PNG (Seamless) |
+| 📱 **UI Platform** | Interactive Gradio/Colab UI |
+| ⚡ **Speed** | 10-15s per high-res tile |
+| 🛡️ **Edge Aware** | Zero boundary detection artifacts |
+
+</td>
+</tr>
+</table>
+
+---
